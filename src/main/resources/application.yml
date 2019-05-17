@@ -1,5 +1,18 @@
-server:
-  prot: 8081
+#server:
+#  prot: 8081
+#spring:
+#  profiles: Development Environment
+#    active: Development Environment
+#---
+#server:
+#  prot: 8083
+#spring:
+#  profiles: Test Environment
+#---
+#server:
+#  prot: 8084
+#spring:
+#  profiles: Production Environment
 
 #person:
 #  last-name: zhangsan
